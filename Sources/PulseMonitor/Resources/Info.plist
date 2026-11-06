@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>CFBundleIdentifier</key>
+    <string>com.pulse.monitor</string>
+    <key>CFBundleName</key>
+    <string>Pulse Monitor</string>
+    <key>CFBundleDisplayName</key>
+    <string>Pulse Monitor</string>
+    <key>CFBundleExecutable</key>
+    <string>PulseMonitor</string>
+    <key>CFBundlePackageType</key>
+    <string>APPL</string>
+    <key>CFBundleShortVersionString</key>
+    <string>1.0.0</string>
+    <key>CFBundleVersion</key>
+    <string>1</string>
+    <key>CFBundleIconFile</key>
+    <string>AppIcon</string>
+    <key>LSMinimumSystemVersion</key>
+    <string>14.0</string>
+    <key>LSUIElement</key>
+    <true/>
+    <key>NSHighResolutionCapable</key>
+    <true/>
+    <key>NSCalendarsUsageDescription</key>
+    <string>Pulse Monitor necesita acceso a tu calendario para mostrar próximos eventos y permitirte unirte rápidamente a reuniones desde el panel y widgets.</string>
+    <key>NSCalendarsFullAccessUsageDescription</key>
+    <string>Pulse Monitor necesita acceso completo al calendario para detectar enlaces de reuniones (Meet, Zoom, Teams) en tus eventos.</string>
+    <key>NSLocationWhenInUseUsageDescription</key>
+    <string>Pulse Monitor utiliza la ubicación para identificar el nombre de la red Wi-Fi (SSID) y datos meteorológicos locales precisos.</string>
+</dict>
+</plist>

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/TopAppsWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Top Apps y Procesos",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Las aplicaciones que más recursos de CPU y RAM consumen en este momento.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sin datos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 38
+        }
+      },
+      {
+        "comment": "",
+        "key": "Top Apps",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "No hay procesos disponibles",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPU · RAM",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Aplicaciones Principales",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 62
+        }
+      }
+    ]
+  },
+  "version": 1
+}

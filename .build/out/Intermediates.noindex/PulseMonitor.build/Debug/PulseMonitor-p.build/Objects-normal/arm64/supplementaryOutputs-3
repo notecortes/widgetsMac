@@ -1,0 +1,23 @@
+{
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/ViewModels/SystemMonitor.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SystemMonitor.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SystemMonitor.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SystemMonitor.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SystemMonitor.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SystemMonitor.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Components/CircularGaugeView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CircularGaugeView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CircularGaugeView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CircularGaugeView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CircularGaugeView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CircularGaugeView.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Components/SparklineChart.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SparklineChart.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SparklineChart.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SparklineChart.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SparklineChart.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SparklineChart.swiftdeps"
+  }
+}

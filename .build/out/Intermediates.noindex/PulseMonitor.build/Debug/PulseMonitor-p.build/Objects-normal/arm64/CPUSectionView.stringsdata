@@ -1,0 +1,72 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/CPUSectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Usuario:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sistema:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Inactivo:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 51
+        }
+      },
+      {
+        "comment": "",
+        "key": "Temperatura:",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 62
+        }
+      },
+      {
+        "comment": "",
+        "key": "Núcleos Apple Silicon",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Núcleos de Rendimiento (P-Cores) · %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 84
+        }
+      },
+      {
+        "comment": "",
+        "key": "Núcleos de Eficiencia (E-Cores) · %lld",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 96
+        }
+      },
+      {
+        "comment": "",
+        "key": "Historial de Actividad (60s)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 113
+        }
+      }
+    ]
+  },
+  "version": 1
+}

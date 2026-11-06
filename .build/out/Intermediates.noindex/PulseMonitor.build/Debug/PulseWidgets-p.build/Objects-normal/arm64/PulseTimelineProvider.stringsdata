@@ -1,0 +1,40 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Providers/PulseTimelineProvider.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Sin datos",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 74
+        }
+      },
+      {
+        "comment": "",
+        "key": "abre Pulse Monitor",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 76
+        }
+      },
+      {
+        "comment": "",
+        "key": "Actualizar Widget",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 90
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fuerza la recarga de los datos de Pulse Monitor en los widgets.",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 91
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,19 @@
+Target dependency graph (7 targets)
+Target 'AllExcludingTests' in project 'Aggregate'
+➜ Explicit dependency on target 'PulseCore-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseMonitor-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseMonitor_PulseMonitor' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseWidgets-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseTestsRunner-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseTestsRunner-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseWidgets-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseMonitor-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseMonitor_PulseMonitor' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseMonitor_PulseMonitor' in project 'PulseMonitor' (no dependencies)
+Target 'PulseCore-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseCore' in project 'PulseMonitor' (no dependencies)

@@ -1,0 +1,64 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/DiskWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Disco y Almacenamiento",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Capacidad ocupada y disponible con alertas visuales al 80% y 90%.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "de %@",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Disco",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Lectura: %@ · Escritura: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "Almacenamiento",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 78
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ / %@ (%@)",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 93
+        }
+      }
+    ]
+  },
+  "version": 1
+}

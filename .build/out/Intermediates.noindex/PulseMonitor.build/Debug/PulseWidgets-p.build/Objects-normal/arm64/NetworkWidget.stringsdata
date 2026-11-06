@@ -1,0 +1,128 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/NetworkWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Red y Conexión",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Velocidad de subida y bajada en tiempo real, consumo diario e IP.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "Red",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "↓ %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 43
+        }
+      },
+      {
+        "comment": "",
+        "key": "↑ %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hoy: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 57
+        }
+      },
+      {
+        "comment": "",
+        "key": "Total mensual: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 102
+        }
+      },
+      {
+        "comment": "",
+        "key": "Red",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 68
+        }
+      },
+      {
+        "comment": "",
+        "key": "↓ Bajada",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "↑ Subida",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "Historial (60s)",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 112
+        }
+      },
+      {
+        "comment": "",
+        "key": "T",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "V",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 119
+        }
+      },
+      {
+        "comment": "",
+        "key": "T",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 121
+        }
+      },
+      {
+        "comment": "",
+        "key": "V",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 121
+        }
+      }
+    ]
+  },
+  "version": 1
+}

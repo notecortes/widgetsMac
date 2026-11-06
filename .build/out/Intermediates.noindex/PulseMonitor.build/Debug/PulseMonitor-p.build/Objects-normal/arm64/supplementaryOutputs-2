@@ -1,0 +1,23 @@
+{
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/ViewModels/AlertEngine.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/AlertEngine.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/AlertEngine.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/AlertEngine.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/AlertEngine.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/AlertEngine.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/ViewModels/LoginItem.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/LoginItem.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/LoginItem.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/LoginItem.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/LoginItem.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/LoginItem.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/ViewModels/SubViewModels.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SubViewModels.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SubViewModels.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SubViewModels.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SubViewModels.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/SubViewModels.swiftdeps"
+  }
+}

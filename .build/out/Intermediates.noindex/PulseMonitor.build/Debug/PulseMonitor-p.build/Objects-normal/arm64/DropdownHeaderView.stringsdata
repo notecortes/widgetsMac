@@ -1,0 +1,40 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/DropdownHeaderView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Ajustes de Pulse Monitor (⌘,)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "%@ · %@ · %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 35
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activo: %@",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carga: %@",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 68
+        }
+      }
+    ]
+  },
+  "version": 1
+}

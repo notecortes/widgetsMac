@@ -1,0 +1,48 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/DropdownView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Pestaña %@",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reanudar monitorización",
+        "location": {
+          "startingColumn": 50,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pausar monitorización",
+        "location": {
+          "startingColumn": 79,
+          "startingLine": 200
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salir de Pulse Monitor",
+        "location": {
+          "startingColumn": 19,
+          "startingLine": 216
+        }
+      },
+      {
+        "comment": "",
+        "key": "HUD",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 172
+        }
+      }
+    ]
+  },
+  "version": 1
+}

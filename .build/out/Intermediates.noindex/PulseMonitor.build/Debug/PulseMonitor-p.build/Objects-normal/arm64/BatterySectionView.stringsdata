@@ -1,0 +1,112 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/BatterySectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Alimentación de CA Conectada",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 23
+        }
+      },
+      {
+        "comment": "",
+        "key": "Este equipo no cuenta con batería interna.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 25
+        }
+      },
+      {
+        "comment": "",
+        "key": "Fuente:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 44
+        }
+      },
+      {
+        "comment": "",
+        "key": "Adaptador CA",
+        "location": {
+          "startingColumn": 57,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "Batería",
+        "location": {
+          "startingColumn": 74,
+          "startingLine": 48
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldh %lldm",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 58
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tiempo para carga:",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tiempo restante:",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 54
+        }
+      },
+      {
+        "comment": "",
+        "key": "Potencia de carga:",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Consumo actual:",
+        "location": {
+          "startingColumn": 83,
+          "startingLine": 66
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salud:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 79
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ciclos:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 91
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 95
+        }
+      }
+    ]
+  },
+  "version": 1
+}

@@ -1,0 +1,40 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Components/SparklineChart.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Hora",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Valor",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 29
+        }
+      },
+      {
+        "comment": "",
+        "key": "Hora",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 42
+        }
+      },
+      {
+        "comment": "",
+        "key": "Valor",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 43
+        }
+      }
+    ]
+  },
+  "version": 1
+}

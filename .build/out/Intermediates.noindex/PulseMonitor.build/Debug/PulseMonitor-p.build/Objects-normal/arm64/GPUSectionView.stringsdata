@@ -1,0 +1,64 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/GPUSectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Uso de Gráficos:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 30
+        }
+      },
+      {
+        "comment": "",
+        "key": "Frecuencia:",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 41
+        }
+      },
+      {
+        "comment": "",
+        "key": "Estado:",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 52
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alta Carga",
+        "location": {
+          "startingColumn": 54,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activa",
+        "location": {
+          "startingColumn": 94,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Reposo",
+        "location": {
+          "startingColumn": 105,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Historial de Gráficos (60s)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 65
+        }
+      }
+    ]
+  },
+  "version": 1
+}

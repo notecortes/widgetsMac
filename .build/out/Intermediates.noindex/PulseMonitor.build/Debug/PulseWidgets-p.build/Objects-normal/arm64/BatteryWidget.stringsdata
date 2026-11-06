@@ -1,0 +1,136 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/BatteryWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Batería y Energía",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nivel de batería, vatios de potencia, ciclos y tiempo restante.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alimentación CA",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 45
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sin batería",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carga completa en %lldh %lldm",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restante: %lldh %lldm",
+        "location": {
+          "startingColumn": 98,
+          "startingLine": 77
+        }
+      },
+      {
+        "comment": "",
+        "key": "Batería",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 55
+        }
+      },
+      {
+        "comment": "",
+        "key": "Potencia: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 99
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cargando",
+        "location": {
+          "startingColumn": 53,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "Batería",
+        "location": {
+          "startingColumn": 66,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lldh %lldm",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 115
+        }
+      },
+      {
+        "comment": "",
+        "key": "Para completar:",
+        "location": {
+          "startingColumn": 56,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Tiempo restante:",
+        "location": {
+          "startingColumn": 76,
+          "startingLine": 111
+        }
+      },
+      {
+        "comment": "",
+        "key": "Salud de la batería:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 123
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ciclos:",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 135
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 139
+        }
+      }
+    ]
+  },
+  "version": 1
+}

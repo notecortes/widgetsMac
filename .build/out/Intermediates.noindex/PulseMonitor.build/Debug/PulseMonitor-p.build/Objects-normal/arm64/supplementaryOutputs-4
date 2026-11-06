@@ -1,0 +1,23 @@
+{
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Components/UsageRow.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/UsageRow.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/UsageRow.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/UsageRow.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/UsageRow.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/UsageRow.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/DropdownHeaderView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownHeaderView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownHeaderView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownHeaderView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownHeaderView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownHeaderView.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/DropdownView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DropdownView.swiftdeps"
+  }
+}

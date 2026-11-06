@@ -1,0 +1,32 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/WeatherWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Clima y Pronóstico",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 16
+        }
+      },
+      {
+        "comment": "",
+        "key": "Temperatura actual, sensación térmica, viento y pronóstico.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sensación: %@ · Viento: %@",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 76
+        }
+      }
+    ]
+  },
+  "version": 1
+}

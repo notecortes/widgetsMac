@@ -1,0 +1,48 @@
+name: PulseMonitor
+options:
+  bundleIdPrefix: com.pulse
+  deploymentTarget:
+    macOS: "26.0"
+
+settings:
+  base:
+    SWIFT_VERSION: "6.2"
+    CODE_SIGN_STYLE: Automatic
+
+targets:
+  PulseMonitor:
+    type: application
+    platform: macOS
+    sources:
+      - path: PulseMonitor
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.pulse.monitor
+        GENERATE_INFOPLIST_FILE: true
+        INFOPLIST_KEY_LSUIElement: true          # app de barra de menús, sin Dock
+    entitlements:
+      path: PulseMonitor/PulseMonitor.entitlements
+      properties:
+        com.apple.security.app-sandbox: false     # sin sandbox: lectura SMC (temperatura)
+        com.apple.security.application-groups:
+          - group.app.pulse
+    dependencies:
+      - target: PulseWidgets
+        embed: true                               # crea la fase Embed Foundation Extensions
+
+  PulseWidgets:
+    type: app-extension
+    platform: macOS
+    sources:
+      - path: PulseWidgets
+    settings:
+      base:
+        PRODUCT_BUNDLE_IDENTIFIER: com.pulse.monitor.PulseWidgets
+        GENERATE_INFOPLIST_FILE: true
+        INFOPLIST_KEY_NSExtension_POINTIDENTIFIER: com.apple.widgetkit-extension
+    entitlements:
+      path: PulseWidgets/PulseWidgets.entitlements
+      properties:
+        com.apple.security.app-sandbox: true      # el widget SÍ sandboxeado
+        com.apple.security.application-groups:
+          - group.app.pulse

@@ -1,0 +1,72 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/ProcessesSectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Buscar proceso...",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPU",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "RAM",
+        "location": {
+          "startingColumn": 60,
+          "startingLine": 47
+        }
+      },
+      {
+        "comment": "",
+        "key": "No se encontraron procesos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 60
+        }
+      },
+      {
+        "comment": "",
+        "key": "Forzar salida de %@",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 136
+        }
+      },
+      {
+        "comment": "",
+        "key": "PID: %d",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 82
+        }
+      },
+      {
+        "comment": "",
+        "key": "¿Salir?",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 107
+        }
+      },
+      {
+        "comment": "",
+        "key": "No",
+        "location": {
+          "startingColumn": 44,
+          "startingLine": 116
+        }
+      }
+    ]
+  },
+  "version": 1
+}

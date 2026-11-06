@@ -1,0 +1,23 @@
+{
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/CPUSectionView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CPUSectionView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CPUSectionView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CPUSectionView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CPUSectionView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CPUSectionView.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/CalendarSectionView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CalendarSectionView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CalendarSectionView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CalendarSectionView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CalendarSectionView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/CalendarSectionView.swiftdeps"
+  },
+  "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/DiskSectionView.swift" : {
+    "const-values" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DiskSectionView.swiftconstvalues",
+    "dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DiskSectionView.d",
+    "diagnostics" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DiskSectionView.dia",
+    "object" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DiskSectionView.o",
+    "swift-dependencies" : "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/.build/out/Intermediates.noindex/PulseMonitor.build/Debug/PulseMonitor-p.build/Objects-normal/arm64/DiskSectionView.swiftdeps"
+  }
+}

@@ -1,0 +1,19 @@
+/* Spanish (Default) */
+"appName" = "Pulse Monitor";
+"cpuTitle" = "Procesador CPU";
+"memoryTitle" = "Memoria RAM";
+"diskTitle" = "Almacenamiento";
+"networkTitle" = "Red y Conexión";
+"batteryTitle" = "Batería y Energía";
+"thermalTitle" = "Térmica y Ventiladores";
+"weatherTitle" = "Clima y Pronóstico";
+"calendarTitle" = "Fecha y Calendario";
+"processesTitle" = "Top Apps y Procesos";
+"summaryTitle" = "Resumen del Sistema";
+"joinMeeting" = "Unirse a la Reunión";
+"forceQuit" = "Forzar salida";
+"settings" = "Ajustes";
+"floatingHUD" = "HUD Flotante";
+"samplingInterval" = "Intervalo de Muestreo";
+"monthlyQuota" = "Cuota de Red Mensual";
+"alerts" = "Alertas Inteligentes";

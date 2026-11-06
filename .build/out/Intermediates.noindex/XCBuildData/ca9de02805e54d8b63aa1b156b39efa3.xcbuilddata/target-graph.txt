@@ -1,0 +1,4 @@
+Target dependency graph (2 targets)
+Target 'PulseTestsRunner-product' in project 'PulseMonitor'
+➜ Explicit dependency on target 'PulseCore' in project 'PulseMonitor'
+Target 'PulseCore' in project 'PulseMonitor' (no dependencies)

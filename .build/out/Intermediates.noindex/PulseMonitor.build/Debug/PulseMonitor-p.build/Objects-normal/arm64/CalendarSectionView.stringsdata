@@ -1,0 +1,64 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Sections/CalendarSectionView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "en %lld min",
+        "location": {
+          "startingColumn": 45,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ahora",
+        "location": {
+          "startingColumn": 64,
+          "startingLine": 39
+        }
+      },
+      {
+        "comment": "",
+        "key": "Próxima Reunión",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 28
+        }
+      },
+      {
+        "comment": "",
+        "key": "Unirse a la Reunión",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Próximos Eventos (24 Horas)",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 71
+        }
+      },
+      {
+        "comment": "",
+        "key": "No hay eventos programados",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 80
+        }
+      },
+      {
+        "comment": "",
+        "key": "· %@",
+        "location": {
+          "startingColumn": 46,
+          "startingLine": 100
+        }
+      }
+    ]
+  },
+  "version": 1
+}

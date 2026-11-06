@@ -1,0 +1,4 @@
+module PulseCore {
+header "PulseCore-Swift.h"
+export *
+}

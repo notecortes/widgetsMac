@@ -1,0 +1,616 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseMonitor/Views/Settings/SettingsSheetView.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Cerrar",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 267
+        }
+      },
+      {
+        "comment": "",
+        "key": "Muestreo y Rendimiento",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 282
+        }
+      },
+      {
+        "comment": "",
+        "key": "Sistema y Arranque",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 309
+        }
+      },
+      {
+        "comment": "",
+        "key": "Intervalo de Muestreo:",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 284
+        }
+      },
+      {
+        "comment": "",
+        "key": "1 segundo (Alta precisión)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 285
+        }
+      },
+      {
+        "comment": "",
+        "key": "2 segundos (Recomendado)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 286
+        }
+      },
+      {
+        "comment": "",
+        "key": "5 segundos (Bajo consumo)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 287
+        }
+      },
+      {
+        "comment": "",
+        "key": "Modo Ahorro Inteligente",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 298
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pulse Monitor incrementa automáticamente el intervalo a 5s cuando tu Mac activa el Modo de Bajo Consumo.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 300
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ejecutar Pulse Monitor al iniciar el Mac",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 311
+        }
+      },
+      {
+        "comment": "",
+        "key": "Apruébalo en Ajustes del Sistema ▸ General ▸ Elementos de inicio",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 321
+        }
+      },
+      {
+        "comment": "",
+        "key": "Abrir Ajustes del Sistema",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 324
+        }
+      },
+      {
+        "comment": "",
+        "key": "Atajo global para HUD flotante:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 335
+        }
+      },
+      {
+        "comment": "",
+        "key": "⌥⌘M",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 338
+        }
+      },
+      {
+        "comment": "",
+        "key": "Panel HUD flotante always-on-top:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 346
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alternar HUD",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 349
+        }
+      },
+      {
+        "comment": "",
+        "key": "Barra de Menús",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 362
+        }
+      },
+      {
+        "comment": "",
+        "key": "HUD Flotante",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 387
+        }
+      },
+      {
+        "comment": "",
+        "key": "Métrica que se mostrará junto al icono en la barra superior:",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 364
+        }
+      },
+      {
+        "comment": "",
+        "key": "Mostrar en la barra de menús:",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 368
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPU (ej. 24 %)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 376
+        }
+      },
+      {
+        "comment": "",
+        "key": "Memoria (ej. 28.5 GB)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 377
+        }
+      },
+      {
+        "comment": "",
+        "key": "Red (ej. ↓ 2.4 MB/s)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 378
+        }
+      },
+      {
+        "comment": "",
+        "key": "Batería (ej. 80 %)",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 379
+        }
+      },
+      {
+        "comment": "",
+        "key": "Solo icono",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 380
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alternar HUD",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 398
+        }
+      },
+      {
+        "comment": "",
+        "key": "Panel HUD Always-On-Top",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 391
+        }
+      },
+      {
+        "comment": "",
+        "key": "Muestra un mini panel translúcido flotante con las 5 métricas clave.",
+        "location": {
+          "startingColumn": 34,
+          "startingLine": 393
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alertas Inteligentes de Hardware",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 410
+        }
+      },
+      {
+        "comment": "",
+        "key": "Activar notificaciones de hardware en tiempo real",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 412
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alerta de CPU:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 419
+        }
+      },
+      {
+        "comment": "",
+        "key": "> %lld%%",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 421
+        }
+      },
+      {
+        "comment": "",
+        "key": "Presión de RAM:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 429
+        }
+      },
+      {
+        "comment": "",
+        "key": "> %lld%%",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 431
+        }
+      },
+      {
+        "comment": "",
+        "key": "Ocupación de Disco:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 439
+        }
+      },
+      {
+        "comment": "",
+        "key": "> %lld%%",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 441
+        }
+      },
+      {
+        "comment": "",
+        "key": "Nivel de Batería baja:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 449
+        }
+      },
+      {
+        "comment": "",
+        "key": "< %lld%%",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 451
+        }
+      },
+      {
+        "comment": "",
+        "key": "Temperatura del SoC:",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 459
+        }
+      },
+      {
+        "comment": "",
+        "key": "> %lld°C",
+        "location": {
+          "startingColumn": 38,
+          "startingLine": 461
+        }
+      },
+      {
+        "comment": "",
+        "key": "Enviar Notificación de Prueba",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 472
+        }
+      },
+      {
+        "comment": "",
+        "key": "¡Notificación enviada!",
+        "location": {
+          "startingColumn": 39,
+          "startingLine": 486
+        }
+      },
+      {
+        "comment": "",
+        "key": "Control de Cuota Mensual",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 503
+        }
+      },
+      {
+        "comment": "",
+        "key": "Configura un límite mensual para vigilar el consumo de datos de tu conexión o tethering.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 505
+        }
+      },
+      {
+        "comment": "",
+        "key": "Límite mensual:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 510
+        }
+      },
+      {
+        "comment": "",
+        "key": "GB",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 517
+        }
+      },
+      {
+        "comment": "",
+        "key": "GB",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 513
+        }
+      },
+      {
+        "comment": "",
+        "key": "Valores rápidos:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 522
+        }
+      },
+      {
+        "comment": "",
+        "key": "%lld GB",
+        "location": {
+          "startingColumn": 36,
+          "startingLine": 526
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pulse Monitor emitirá una alerta preventiva al alcanzar el 80% y una alerta crítica al 100% de la cuota.",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 540
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exportación y Registro",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 552
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pulse Monitor registra métricas de hardware de forma eficiente en almacenamiento local. Puedes exportar el histórico para análisis en hojas de cálculo o herramientas externas.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 554
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exportar JSON",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 563
+        }
+      },
+      {
+        "comment": "",
+        "key": "Exportar CSV",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 571
+        }
+      },
+      {
+        "comment": "",
+        "key": "Diagnóstico del Sistema",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 591
+        }
+      },
+      {
+        "comment": "",
+        "key": "Valores y Copia de Seguridad",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 605
+        }
+      },
+      {
+        "comment": "",
+        "key": "Atajos de Teclado Globales",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 633
+        }
+      },
+      {
+        "comment": "",
+        "key": "Genera un informe completo en texto plano de hardware, CPU, memoria, red y batería.",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 593
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copiar Diagnóstico al Portapapeles",
+        "location": {
+          "startingColumn": 28,
+          "startingLine": 597
+        }
+      },
+      {
+        "comment": "",
+        "key": "Restablecer Valores",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 608
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copiar Ajustes (JSON)",
+        "location": {
+          "startingColumn": 32,
+          "startingLine": 613
+        }
+      },
+      {
+        "comment": "",
+        "key": "Alternar HUD Flotante:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 636
+        }
+      },
+      {
+        "comment": "",
+        "key": "⌥⌘M",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 639
+        }
+      },
+      {
+        "comment": "",
+        "key": "Abrir Ajustes:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 643
+        }
+      },
+      {
+        "comment": "",
+        "key": "⌘,",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 646
+        }
+      },
+      {
+        "comment": "",
+        "key": "Menú Contextual:",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 650
+        }
+      },
+      {
+        "comment": "",
+        "key": "Clic derecho en icono",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 653
+        }
+      },
+      {
+        "comment": "",
+        "key": "Pulse Monitor",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 669
+        }
+      },
+      {
+        "comment": "",
+        "key": "Versión %@ (Build %@) · macOS 27.2 / 26+",
+        "location": {
+          "startingColumn": 18,
+          "startingLine": 674
+        }
+      },
+      {
+        "comment": "",
+        "key": "100% Local: Cero telemetría, cero analíticas",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 681
+        }
+      },
+      {
+        "comment": "",
+        "key": "0 Dependencias externas: Swift nativo",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 682
+        }
+      },
+      {
+        "comment": "",
+        "key": "10 Widgets interactivos de escritorio para macOS",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 683
+        }
+      },
+      {
+        "comment": "",
+        "key": "HUD flotante Always-On-Top (⌥⌘M)",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 684
+        }
+      },
+      {
+        "comment": "",
+        "key": "Menú contextual con clic derecho en la barra",
+        "location": {
+          "startingColumn": 23,
+          "startingLine": 685
+        }
+      },
+      {
+        "comment": "",
+        "key": "Copiar Diagnóstico",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 692
+        }
+      },
+      {
+        "comment": "",
+        "key": "Cerrar",
+        "location": {
+          "startingColumn": 24,
+          "startingLine": 697
+        }
+      }
+    ]
+  },
+  "version": 1
+}

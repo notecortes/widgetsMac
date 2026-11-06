@@ -1,0 +1,112 @@
+{
+  "source": "/Users/paspas/Library/CloudStorage/OneDrive-Conselleriad'Educació/CLASES/000.ClasesActuales/00.PROYECTOS/2026/widgetsMac/Sources/PulseWidgets/Widgets/CPUWidget.swift",
+  "tables": {
+    "Localizable": [
+      {
+        "comment": "",
+        "key": "Procesador CPU",
+        "location": {
+          "startingColumn": 35,
+          "startingLine": 17
+        }
+      },
+      {
+        "comment": "",
+        "key": "Carga total del procesador, desglose P/E y temperatura.",
+        "location": {
+          "startingColumn": 22,
+          "startingLine": 18
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPU",
+        "location": {
+          "startingColumn": 27,
+          "startingLine": 31
+        }
+      },
+      {
+        "comment": "",
+        "key": "T",
+        "location": {
+          "startingColumn": 48,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "V",
+        "location": {
+          "startingColumn": 77,
+          "startingLine": 56
+        }
+      },
+      {
+        "comment": "",
+        "key": "Temperatura: %@",
+        "location": {
+          "startingColumn": 30,
+          "startingLine": 83
+        }
+      },
+      {
+        "comment": "",
+        "key": "P-Cores: %lld · E-Cores: %lld",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 88
+        }
+      },
+      {
+        "comment": "",
+        "key": "CPU",
+        "location": {
+          "startingColumn": 31,
+          "startingLine": 72
+        }
+      },
+      {
+        "comment": "",
+        "key": "Actividad de Núcleos",
+        "location": {
+          "startingColumn": 26,
+          "startingLine": 97
+        }
+      },
+      {
+        "comment": "",
+        "key": "T",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "V",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 114
+        }
+      },
+      {
+        "comment": "",
+        "key": "T",
+        "location": {
+          "startingColumn": 52,
+          "startingLine": 116
+        }
+      },
+      {
+        "comment": "",
+        "key": "V",
+        "location": {
+          "startingColumn": 81,
+          "startingLine": 116
+        }
+      }
+    ]
+  },
+  "version": 1
+}
